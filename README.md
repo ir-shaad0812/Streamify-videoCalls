@@ -13,7 +13,7 @@ Highlights:
 - 🚨 Error Handling (Frontend & Backend)
 - 🚀 Free Deployment
 - 🎯 Built with Scalable Technologies like Stream
-- ⏳ And much more!
+- ⏳ And much more,...!
 
 ---
 
