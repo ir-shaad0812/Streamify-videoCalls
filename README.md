@@ -9,9 +9,9 @@ Highlights:
 - 🔐 JWT Authentication & Protected Routes
 - 🌍 Language Exchange Platform with 32 Unique UI Themes
 - ⚡ Tech Stack: React + Express + MongoDB + TailwindCSS + TanStack Query
-- 🧠 Global State Management with Zustand
-- 🚨 Error Handling (Frontend & Backend)
-- 🚀 Free Deployment
+- 🧠 Global State Management with Zustand Ui
+- 🚨 Error Handling (Frontend & Backend )
+- 🚀 Free Deployment on future soon
 - 🎯 Built with Scalable Technologies like Stream
 - ⏳ And much more,...!
 
